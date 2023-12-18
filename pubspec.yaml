@@ -20,7 +20,7 @@ platforms:
   ios:
   linux:
   macos:
-  windows:
+  # windows:
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
@@ -47,7 +47,8 @@ dependencies:
   watcher: ^1.1.0
 
 dev_dependencies:
-  build_runner: ^2.4.6
+  build_runner: ^2.4.7
+  isar_generator: ^3.1.0+1
   objectbox_generator: ^2.3.1
   test: ^1.24.9
 

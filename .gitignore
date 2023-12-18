@@ -1,6 +1,6 @@
 # Custom
 local/
-*.g.dart
+# *.g.dart
 
 # Miscellaneous
 *.class
